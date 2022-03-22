@@ -1,5 +1,5 @@
 ### Olá,
-## Hello,
+### Hello,
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,5 +11,13 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pAndressa&show_icons=true&theme=radical)
+<div>
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=pAndressa&show_icons=true&theme=radical" />
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pAndressa&layout=compact&hide=javascript,css,html&theme=radical" />
+</div>
+<p>
+  <a target = "_blank" href = "https://linkedin.com/in/andressa-silva-pereira-dev">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 

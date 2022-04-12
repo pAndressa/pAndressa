@@ -12,8 +12,8 @@
 - ⚡ Fun fact: ...
 -->
 <div width="100%">
-  <img width="50%" height ="180em" src="https://github-readme-stats.vercel.app/api?username=pAndressa&show_icons=true&theme=radical" />
-  <img width="50%" height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pAndressa&layout=compact&hide=javascript,css,html&theme=radical" />
+  <img width="25%" height ="180em" src="https://github-readme-stats.vercel.app/api?username=pAndressa&show_icons=true&theme=radical" />
+  <img width="25%" height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pAndressa&layout=compact&hide=javascript,css,html&theme=radical" />
 </div>
 <div>
   <a target = "_blank" href = "https://br.linkedin.com/in/andressa-silva-pereira-dev">

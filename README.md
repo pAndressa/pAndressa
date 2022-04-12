@@ -12,12 +12,12 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=pAndressa&show_icons=true&theme=radical" />
+  <img width="50%" height ="180em" src="https://github-readme-stats.vercel.app/api?username=pAndressa&show_icons=true&theme=radical" />
   <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pAndressa&layout=compact&hide=javascript,css,html&theme=radical" />
 </div>
 <div>
   <a target = "_blank" href = "https://br.linkedin.com/in/andressa-silva-pereira-dev">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="50%" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
